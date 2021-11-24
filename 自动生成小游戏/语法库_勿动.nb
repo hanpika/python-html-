@@ -1,2 +1,0 @@
-p:<p>TextTx</p>
-img:<img src='TextTx'>
